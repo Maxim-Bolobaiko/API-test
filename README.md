@@ -20,12 +20,7 @@ source venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-4. Примените миграции:
-```bash
-python manage.py migrate
-```
-
-5. Запустите сервер:
+4. Запустите сервер:
 ```bash
 python manage.py runserver
 ```
