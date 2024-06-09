@@ -24,3 +24,6 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
+
+> [!NOTE]
+> База данных с внесёнными в неё 10 первыми записями с сайта уже присутствует в репозитории
